@@ -72,6 +72,13 @@ button:hover {
     font-weight: bold;
 }
 
+.menu-container {
+    background-color: #ff1493;
+    border-radius: 20px;
+    padding: 5px 15px;
+    display: inline-block;
+}
+
 .nav-links {
     list-style: none;
     display: flex;
