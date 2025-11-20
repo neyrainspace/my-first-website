@@ -1,3 +1,9 @@
+/* Top of the file - reset margin & padding */
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     font-family: Arial, sans-serif;
     text-align: center;
@@ -39,7 +45,7 @@ button:hover {
 /* BORDERS*/
     border-top: 5px solid #ff0000b6;
     border-bottom: 1px solid #ff0000b6;
-    
+
     position: sticky;
     top: 0;
     z-index: 1000;
