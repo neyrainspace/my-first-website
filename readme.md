@@ -51,3 +51,37 @@ Date: 20/11/2025 6.51PM
 - Gained confidence in debugging visual issues and seeing results live on the website.
 
 ---
+
+## Latest Updates
+
+Date: 21/11/2025 2.10AM
+
+**Navbar & Menu Bar**
+- Added **menu container** with **rounded edges** for better aesthetics.
+- Menu links (Home | Projects | Contacts) are now **centered inside the container** while the container sits on the left side of the navbar.
+- Adjusted **padding and border radius** for a sleeker, more balanced look.
+- Experimented with **hover effects** and spacing for proper alignment.
+
+**Body Background Color Experiments**
+- Changed body background color multiple times to find the right soft tone:
+    - Started with #ffffff (white) -> too plain.
+    - Tried #f3e9df -> looked slightly purple-ish.
+    - Tested #f7e396 -> too yellow.
+    - Tested #f3e29d -> a bit orange-ish.
+    - Tried #fffde7 -> its not a yellow color.
+    - Tried another color #fff59e, and its not a soft yellow.
+    - Final (for now) #faf4bb -> looks youtful, still a bit off from the ideal color.
+- Learned about **CSS vs inline HTML priority** and how changes reflect on the live website.
+- Recognized the importance of patience--sometimes the site needs a few minutes to update after pushing changes.
+
+**Styling Tweaks**
+- Navbar color updated to **match the body background** for a seamless design.
+- Commented out necessary top bar text to simplify the header.
+
+**Summary of Learning Points**
+- CSS **container alignment** vs content alignment--menu container placement vs menu links centering.
+- Iterative design: adjusting padding, border-radius, spacing, and colors until visual balance is achieved.
+- Body background color experimentation teaches patience, attention to detail, and testing multiple options.
+- The importance of **commits with precise summary and description** to track workflow and progress.
+
+---
