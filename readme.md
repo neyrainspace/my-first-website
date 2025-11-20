@@ -31,3 +31,23 @@ During this project, I faced a **challenging issue with Github Desktop**:
 - Document future milestones and learning experiences in this README
 
 ---
+
+## Updates: Top Bar & Navbar Alignment
+
+Date: 20/11/2025 6.51PM
+
+**Summary:** Added a flush top bar above the navbar for a sleek site header.
+
+**Description:** 
+- Removed previous top-border.
+- Added a new <div class="top-bar"> in HTML for the top bar.
+- Styled .top-bar in CSS with height, background color, and no gaps.
+- Verified it's flush with the top of the page, no white gap above.
+- Navbar remains aligned and functional.
+
+**Learning Moment / Achievement:**
+- Successfully troubleshooted layout issues independently.
+- Learned how to structure HTML & CSS to make elements flush and     aligned.
+- Gained confidence in debugging visual issues and seeing results live on the website.
+
+---
