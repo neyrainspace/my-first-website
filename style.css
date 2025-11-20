@@ -33,7 +33,7 @@ button:hover {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 40px;
+    padding: 8px 40px;
     background-color: #ffffff;
     border-bottom: 1px solid #e5e5e5;
     position: sticky;
