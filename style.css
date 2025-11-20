@@ -54,7 +54,7 @@ button:hover {
 /* NAVIGATION BAR */
 .navbar {
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-between;
     align-items: center;
     padding: 8px 40px;
     background-color: #faf4bb;
