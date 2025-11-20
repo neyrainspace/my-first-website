@@ -76,7 +76,9 @@ button:hover {
     background-color: #ff69b4;
     border-radius: 50px;
     padding: 5px 20px;
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    width: 100%;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1)
 }
 
