@@ -85,3 +85,45 @@ Date: 21/11/2025 2.10AM
 - The importance of **commits with precise summary and description** to track workflow and progress.
 
 ---
+
+## Updates: My HTML Learning Journey
+
+Date: 23/11/2025 3.24AM
+
+This is all about **my process of learning HTML** while working on my first website project.
+
+**My Approach**
+- I dont just copy code or memorize instructions. I like to **write notes in my own words,** explain concepts to myself, and then **ask questions to validate** if I really understand. For me, it's important to know **why something works,** not just how to type it.
+
+**How I Learn**
+1. **Self-explaining**
+    - I write everything in my own language, even if it's a little messy. I treat my notes like im teaching myself out loud.
+2. **Validation**
+    - After writing my understanding, I check it -- ask questions or   get feedback. This confirms that I really get it.
+3. **Section-by-section**
+    - I focus on one section of the page at a time. It helps me track progress, build muscle memory, and avoid feeling overwhelmed.
+4. **Tools exposure first**
+    - I started my first project even when I didn't fully understand HTML or CSS. The goal was to **get familiar with VS Code, Github, and Github Pages** -- just learning the workflow.
+
+**What I've Learned So Far**
+- How to structure HTML: <section>, <div>, <nav>, classes, IDs.
+- Difference between **block and inline elements**
+- Using **alt for images** for accessibility.
+- When to use **CSS vs inline styling**
+- How to use **anchor links** and buttons.
+- Importance of **comments** to organize my code.
+
+**Reflections**
+- My first project isn't perfect -- I make mistakes, but that's part of the process.
+- Im building confidence step by step, and my **muscle memory is growing.**
+- Focusing on understanding **before styling or scripting** makes coding feel less overwhelming.
+- This journey is about learning **how to think like a developer,** not just writing code.
+
+**Next Steps**
+- **CSS** -> Start styling each section: top bar, hero, text, buttons, colors, spacing.
+- **Refactor HTML** -> Clean current structure, ensure proper classes & IDs, prepare for styling.
+- **JS** -> Add interactivity: button clicks, alerts, DOM manipulation, anchor link smooth scroll.
+- **Project Workflow** -> Section-by-section implementation, testing, and Github updates.
+- **Reflection** -> Track progress, document learning in README, and gradually improve UI & UX.
+
+---
